@@ -1,5 +1,7 @@
 ### Hello World 👋
 
+![My anim]([https://github.com/Lavan0927/Lavan0927/blob/main/anim.svg]
+
 
 <h3 align="center">🌱 I’m currently reading for Bsc.(Hons.) Information Technology </h3>
 <h4 align="left">Connect with me:</h4>
